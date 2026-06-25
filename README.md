@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=DasVargas&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:a78bfa&height=200&section=header&text=DasVargas&fontSize=80&fontColor=a78bfa&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Universidad+Nacional+de+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Java+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%F0%9F%92%BB;Desktop+%26+Web+Development+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Universidad+Nacional+de+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Java+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%F0%9F%92%BB;Desktop+%26+Web+Development+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DasVargas&style=for-the-badge&color=58a6ff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DasVargas?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DasVargas&style=for-the-badge&color=a78bfa" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DasVargas?style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Followers" />
 </p>
 
 ---
@@ -99,12 +99,12 @@ public final class Das extends Estudiante {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DasVargas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DasVargas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DasVargas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DasVargas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasVargas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasVargas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ---
@@ -113,19 +113,19 @@ public final class Das extends Estudiante {
 
 <p align="center">
   <a href="https://github.com/DasVargas/Mi-Portafolio-Web">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=Mi-Portafolio-Web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=Mi-Portafolio-Web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/DasVargas/Mi_pagina">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=Mi_pagina&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=Mi_pagina&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DasVargas/LABN3_DaslynVargas_Example_Rive">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=LABN3_DaslynVargas_Example_Rive&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=LABN3_DaslynVargas_Example_Rive&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/DasVargas/defold-websocked">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=defold-websocked&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DasVargas&repo=defold-websocked&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
   </a>
 </p>
 
@@ -148,4 +148,4 @@ public final class Das extends Estudiante {
   <i>"Cada proyecto es un paso más en el aprendizaje."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:a78bfa&height=120&section=footer" />
