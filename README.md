@@ -33,7 +33,7 @@ public final class Das extends Estudiante {
 }
 ```
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" />
 
 - 🎓 Estudiante de Ingeniería en Software en la **UNA**, Costa Rica.
 - 💻 Desarrollo Desktop & Web — Java, C++, Python, JavaScript.
